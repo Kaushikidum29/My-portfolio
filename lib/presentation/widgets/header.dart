@@ -11,6 +11,9 @@ class HeaderWidget extends StatelessWidget {
     required this.skillsKey,
     required this.projectsKey,
     required this.contactKey,
+
+
+
     this.activeSection = 'home',
     required this.name,
   }) : super(key: key);
